@@ -1,7 +1,7 @@
 ## Past Videos
 - [@HomeEducation_Online_2022](https://www.youtube.com/watch?v=tK7TF3G7lC0) 2022
 - [@HomeEducation_Bordeaux_2023](https://www.youtube.com/watch?v=4Th0m2qgdV8) 2023
-- [@HomeplayGround_Amsterdam_2024](https://www.youtube.com/watch?v=Nmh8wPFEZXI) 2024
+- [@HomePlayGround_Amsterdam_2024](https://www.youtube.com/watch?v=Nmh8wPFEZXI) 2024
 - [@Home_2025_Application](https://www.youtube.com/watch?v=_Ps4fazo420) 2025
 
 ## Hardware (Onshape)
